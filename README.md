@@ -29,7 +29,10 @@
 
 接口文档
 -
-url 设置为：8080
+在postman 中导入 doc 文件夹下的grade_management.postman_collection.json，即可测试。
+url 设置为：8080。
+
+![学生信息录入](https://github.com/yehan5555/grade_management/blob/master/doc/luru.png)
 
 
 
